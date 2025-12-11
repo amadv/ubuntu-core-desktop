@@ -80,7 +80,7 @@
         },
         {
             "name": "gnome-46-2404",
-            "default-channel": "latest/edge",
+            "default-channel": "latest/stable/ubuntu-24.10",
             "type": "app",
             "id": "ew7OxpbRTxfK7ImpIygRR85lkxvU7Pzt"
         },
