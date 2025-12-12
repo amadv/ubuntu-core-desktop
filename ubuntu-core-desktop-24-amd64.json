@@ -79,12 +79,6 @@
             "id": "lATO8HzwVvrAPrlZRAWpfyrJKlAJrZS3"
         },
         {
-            "name": "gnome-46-2404",
-            "default-channel": "latest/stable/ubuntu-24.10",
-            "type": "app",
-            "id": "ew7OxpbRTxfK7ImpIygRR85lkxvU7Pzt"
-        },
-        {
             "name": "cups",
             "default-channel": "latest/stable",
             "type": "app",
