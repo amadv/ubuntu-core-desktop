@@ -1,7 +1,7 @@
 type: model
-authority-id: canonical
+authority-id: developer
 series: 16
-brand-id: canonical
+brand-id: developer
 model: ubuntu-core-desktop-24-amd64-dangerous
 architecture: amd64
 base: core24-desktop
@@ -109,17 +109,4 @@ snaps:
     id: tBdYpKjXcW5farGGJaWiYXrxIwMVMtx5
     name: ubuntu-desktop-init
     type: app
-storage-safety: prefer-encrypted
-timestamp: 2024-07-04T10:33:44+08:00
-sign-key-sha3-384: 9tydnLa6MTJ-jaQTFUXEwHl1yRx7ZS4K5cyFDhYDcPzhS7uyEkDxdUjg9g08BtNn
 
-AcLBXAQAAQoABgUCZoYTygAKCRDgT5vottzAEp5GEACX59hc/FHiFzBvTaXzdkH4Dsuqd40jiL/J
-/wFmVcLH4SV8NVcFAVUkKY0rLviLA+ai/W/rOlsq5pbMHcaXiukRSjormeXlH84t7xRy9WTNXYx2
-R6HNJ7LY+twFqCXSxOtGKENXdWwtw5YifCtRSm4l7MKiDb9IbysuDupjZL2l/DqjN0kF3yaVUgVN
-WneI6j94rFlUCzv7L7j3TB4Dh7WeyqlnpDGy5deztl+4wwAWuDDTTHuo8dx4sIYD+L53sAk6MiSI
-BbjFk6QnbQvCodJwawZHjChZU2m/R3Xv8jjVww/1f2zzonx2myoQJCRrnUAUQ4xE28ViqeUJZkl/
-YeJKHa4DxMEQhwG02y4Y7pjVO+UErCruA6xP+g6TuQYC7sHqN5SLnPICPhHdVKyE3ukowwbe9SOm
-Z6gK+vt8QKfnMXoFofmbmaRZz+kp8rYAOYbOH4JjAzFUl4Cd+AnXeP5tt0g0q2Cv8ucJCaNLXg3v
-yhRPHIoiWx/Udl+fHdNPM4Cfdy651IJy6Wxpfv8PQJpmuaUzL23UxY111nmZF1kIgedcSbf+Bsmp
-e0qhWDKftF8nWmXS0RklgmdBskztVCSTflCXn2yo8w2/UAO/1cDUzEaTtjCTVMjcHbMqIDBw0nuf
-dq6yqlLbwLEZWSJTJOBuIpnVcWq+7YFg0RtDyZK2/g==
