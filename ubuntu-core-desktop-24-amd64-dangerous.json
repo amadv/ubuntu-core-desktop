@@ -1,15 +1,13 @@
 {
     "type": "model",
-    "authority-id": "canonical",
-    "brand-id": "canonical",
+    "authority-id": "developer",
+    "brand-id": "developer",
     "series": "16",
     "model": "ubuntu-core-desktop-24-amd64-dangerous",
     "display-name":"Ubuntu Core Desktop 24 (amd64) (dangerous)",
     "architecture": "amd64",
     "revision": "0",
-    "timestamp": "2024-07-04T10:33:44+08:00",
     "grade": "dangerous",
-    "storage-safety": "prefer-encrypted",
     "base": "core24-desktop",
     "snaps": [
         {
