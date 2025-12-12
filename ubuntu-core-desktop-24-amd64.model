@@ -1,7 +1,7 @@
 type: model
-authority-id: canonical
+authority-id: developer
 series: 16
-brand-id: canonical
+brand-id: developer
 model: ubuntu-core-desktop-24-amd64
 architecture: amd64
 base: core24-desktop
@@ -111,15 +111,15 @@ snaps:
     type: app
 storage-safety: prefer-encrypted
 timestamp: 2024-07-04T10:33:44+08:00
-sign-key-sha3-384: 9tydnLa6MTJ-jaQTFUXEwHl1yRx7ZS4K5cyFDhYDcPzhS7uyEkDxdUjg9g08BtNn
+sign-key-sha3-384: OywAso5I-6GNV4WAvpLI9LQtuk5nHxRYlVYev3AArf-3obrQDwW4nez6GTVlzp64
 
-AcLBXAQAAQoABgUCZoYTygAKCRDgT5vottzAEnlLD/4toc4w5IiLm/xmBFL8BVwXXVQsvNNtVYaT
-NGSa+q7OJXeVbPQnnRMK4oH31IbGFngK3IHoc04LK76W2GQzAE4SQxTcV9VTlyPrVc6OeCn9rSWj
-zFX/fOVuD5Wd6OOgNitaHqVHh8CDQFcsdOBICImHG6s0Au1mIDVQvV/DxcnnprJ53yXFCeastuX+
-CnZiB6wOv/dzGHnIbhpUtKg5HV5jZoIkmplWAZr1IXd8gAPvltDzpJYwN6GMHK6SLUD1tgviP4ZB
-gw9IT11DCeB9TOEnsAs7y1YApUdkxMSv4B+Jwew/lkjysncULqFCt6fCD3HEw+OdULb/OrFnYcSV
-4NqPBop/9mi+CB5Fs3ubtlKxK9VnSJbLpXsyBeDvljVKp0MvNBpCTJnlGtRvQE/bHLpaAhRRsP0R
-6cUqd1ieRm4wp/1/v+zMjdp6VL7co0/a6jZgtfptCMnCC6Z0KdLWGQjaXDwxNStqMK3h/Au2YWDc
-ZgZ/+wTxMlDyU4i4gg+rByV2yPHfGeVpN7D7nuY8OWXq1ezESY6K5fsOW77/XEjZJOI3BFOJ6Xnl
-2ATKBs6uSmMPQSZo21sk+E0c2gH8qj6L6mUcAz2qvilur9w4uEM3TRfZcAKPN+8lV44eB8/aZpq7
-GfjsXFa+DpXJzWdC91SP4yIeojoj3OAl4gNwt0c85g==
+AcLBcwQAAQoAHRYhBD+CXGL+tbaPD/nh03ZiXWjt9G8OBQJpPDCOAAoJEHZiXWjt9G8ORvsP/jFR
+kPRwH9UpeRryu986Z+MIMpAX1NyUzU5qwI3JQuiiquB9qze2Roo+A4Spbh6OiSF9saJoIIMv71wU
+7XmmMZX0U8HT3StBPeckhxskk1iGxT1xA7VeC7AwMfTFQVnvF04tSujKETuqQM7cx46Y1tvA5xaw
+zdVAdyZYNlYcgqykYqFjtNmrHZxeWrYEuqx/j1sFtFL8Jmy0appNODLjqa2H8zS7fxoziT2WfvnR
+NFbMD9o5Qa6ztX+zLtKsTDkR+fE5Xg5Fp3dAnIaOh+uPZB6MC+k43Z7MAJHr8HyXBvswoBWFyOWM
+j/6gT7hTYkyEo9c3ceIXb2/4TDYX9HfpBgLLXj2G1VEn4Rprfahp+VZGTk0JGQleBO6IyiiuMHKt
+h4ECw70cxWyNnpEBnqU0GsnCimq2SQEw3VLGcC5otr7SABchUkd0RZRE0w9x9/4NKzqs392oWZKF
+yInc4KxP1NhglBF76eqZn03I0c2FHHGgCfgE+HAkcdafVIAKd4W98D9Q+Oy92KgF3v0QovQuJAus
+mNf0lP9Oy5Q6uNpcsbFSMHDQHH2x12RMVZwj1pJYToGiI/SYR+b2Qpp0g5g2UwABOtEs1UySO5wV
+fyIWKXueD2sBbYWvSD8oxO/mVZMi5OHqsx026YNUqpxV973+vpH6HMTEe0teAwmUj024ZaXG

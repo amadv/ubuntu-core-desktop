@@ -1,7 +1,7 @@
 {
     "type": "model",
-    "authority-id": "canonical",
-    "brand-id": "canonical",
+    "authority-id": "developer",
+    "brand-id": "developer",
     "series": "16",
     "model": "ubuntu-core-desktop-24-amd64",
     "display-name":"Ubuntu Core Desktop 24 (amd64)",
