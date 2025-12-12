@@ -3,11 +3,11 @@ EXTRA_SNAPS =
 ALL_SNAPS = $(EXTRA_SNAPS) firefox
 all: pc.tar.gz
 
-# pc.img: ubuntu-core-desktop-24-amd64.model $(EXTRA_SNAPS)
-# 	rm -rf img/
-# 	ubuntu-image snap -v --validation=enforce --output-dir img --image-size 20G \
-# 	  $(foreach snap,$(ALL_SNAPS),--snap $(snap)) $<
-# 	mv img/pc.img .
+pc.img: ubuntu-core-desktop-24-amd64.model $(EXTRA_SNAPS)
+	rm -rf img/
+	ubuntu-image snap -v --validation=ignore --output-dir img --image-size 20G \
+	  $(foreach snap,$(ALL_SNAPS),--snap $(snap)) $<
+	mv img/pc.img .
 
 pc-dangerous.img: ubuntu-core-desktop-24-amd64-dangerous.model $(EXTRA_SNAPS)
 	rm -rf dangerous/
